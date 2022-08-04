@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# ContributionEvaluation_FL
-Contribution Evaluation methods in Incentive Mechanism of Federated Learning
-=======
-# Contribution Evaluation Subproblem in Incentive Mechanism of Federated Learning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Contribution Evaluation Sub-problem in Incentive Mechanism of Federated Learning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ## A Principled Approach to Data Valuation for Federated Learning
 
@@ -19,4 +15,4 @@ Contribution Evaluation methods in Incentive Mechanism of Federated Learning
 could depend on when it is used for training. For example, the data sources used toward the end of learning process could be less inuential.
 
 
->>>>>>> ea9a243 (Version 1.1)
+
