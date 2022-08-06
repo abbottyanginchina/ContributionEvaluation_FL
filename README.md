@@ -16,6 +16,7 @@ could depend on when it is used for training. For example, the data sources used
 
 ### Solutions:
 - <strong>Fairness:</strong>
+- 
 In order to balance fairness, the authors add selected clients of previous iterations $I_{1:t-1} = I_{1} + ... + I_{t-1}$.
 Modify the shapley value equation as follow:
 
